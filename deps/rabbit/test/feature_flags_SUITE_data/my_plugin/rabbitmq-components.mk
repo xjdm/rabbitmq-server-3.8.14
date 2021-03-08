@@ -1,0 +1,1 @@
+include ../../../rabbitmq-components.mk
